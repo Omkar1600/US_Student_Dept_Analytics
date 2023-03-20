@@ -2,6 +2,8 @@
 
 ![Dashboard 1 (2)](https://user-images.githubusercontent.com/96243604/226415108-28e83644-84cb-47b8-8b60-fa6b44c4596c.png)
 
+To Interact with live Dashboard:https://public.tableau.com/app/profile/omkar4768/viz/Education_16790659745500/Dashboard1
+
 ## Description:
 
 The Dashboard tells about the US Government Spending on student education .The dashboard give the detail structure of the spending that the Government does on the basic of their state, city , college type. This dashboard is helpful for the students and the voters to underatand their state wise education spemding .
